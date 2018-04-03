@@ -1,0 +1,6 @@
+﻿  SD_LaSalleLibraryMng_Ver2-0.cpp
+c:\users\fmtchicho\documents\visual studio 2015\projects\sd_lasallelibrarymng_ver2-0\sd_lasallelibrarymng_ver2-0.cpp(670): warning C4244: '=' : conversion de 'double' en 'long', perte possible de données
+c:\users\fmtchicho\documents\visual studio 2015\projects\sd_lasallelibrarymng_ver2-0\sd_lasallelibrarymng_ver2-0.cpp(711): warning C4715: 'get_Category' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\fmtchicho\documents\visual studio 2015\projects\sd_lasallelibrarymng_ver2-0\sd_lasallelibrarymng_ver2-0.cpp(719): warning C4715: 'get_Status' : les chemins de contrôle ne retournent pas tous une valeur
+  SD_LaSalleLibraryMng_Ver2-0.vcxproj -> C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\SD_LaSalleLibraryMng_Ver1-0\Debug\SD_LaSalleLibraryMng_Ver2-0.exe
+  SD_LaSalleLibraryMng_Ver2-0.vcxproj -> C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\SD_LaSalleLibraryMng_Ver1-0\Debug\SD_LaSalleLibraryMng_Ver2-0.pdb (Full PDB)
